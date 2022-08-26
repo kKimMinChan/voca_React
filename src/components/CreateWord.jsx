@@ -5,7 +5,7 @@ import useFetch from "../hooks/useFetch";
 export default function CreateWord() {
   const days = useFetch("http://localhost:3001/days");
   const history = useHistory();
-  const [isLoading, setIsLoading] = useState(false);
+  // const [isLoading, setIsLoading] = useState(false);
 
   function onSubmit(e) {
     e.preventDefault();
