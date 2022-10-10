@@ -19,13 +19,6 @@
   ],
   "words": [
     {
-      "id": 1,
-      "day": 1,
-      "eng": "book",
-      "kor": "책",
-      "isDone": false
-    },
-    {
       "id": 2,
       "day": 1,
       "eng": "apple",
@@ -76,8 +69,8 @@
     },
     {
       "day": "4",
-      "eng": "phone",
-      "kor": "폰",
+      "eng": "efads",
+      "kor": "asdf",
       "isDone": false,
       "id": 9
     }
